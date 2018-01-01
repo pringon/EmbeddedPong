@@ -1,4 +1,4 @@
-#include "../lcdlib/lcd.h"
+#include "lcdlib/lcd.h"
 #include "bat.h"
 #include "ball.h"
 

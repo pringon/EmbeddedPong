@@ -1,5 +1,5 @@
 #include <avr/io.h>
-#include "../lcdlib/lcd.h"
+#include "lcdlib/lcd.h"
 #include "bat.h"
 
 static rectangle *bat;

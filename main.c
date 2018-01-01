@@ -1,5 +1,5 @@
 #include <avr/io.h>
-#include "../lcdlib/lcd.h"
+#include "lcdlib/lcd.h"
 #include "game_utils.h"
 
 int main() {
